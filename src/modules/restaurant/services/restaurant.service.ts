@@ -1,4 +1,3 @@
-// restaurant.service.ts
 import { Injectable, Logger, NotFoundException, BadRequestException, InternalServerErrorException, HttpStatus } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';

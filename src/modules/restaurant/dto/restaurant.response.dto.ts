@@ -1,5 +1,3 @@
-// restaurant.dto.ts
-import { IsNotEmpty, IsNumber, IsString, IsDefined } from 'class-validator';
 import { ApiProperty } from '@nestjs/swagger';
 
 export class RestaurantRespDto {

@@ -1,4 +1,3 @@
-// rate-limiter.module.ts
 import { Module } from '@nestjs/common';
 import { RateLimiterModule } from 'nestjs-rate-limiter';
 

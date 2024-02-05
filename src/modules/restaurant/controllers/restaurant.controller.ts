@@ -1,4 +1,3 @@
-// restaurant.controller.ts
 import { Controller, Get, Post, Put, Delete, Query, Body, Param, NotFoundException, BadRequestException, ValidationPipe } from '@nestjs/common';
 import { ApiTags, ApiResponse } from '@nestjs/swagger';
 import { RestaurantService } from '../services/restaurant.service';
